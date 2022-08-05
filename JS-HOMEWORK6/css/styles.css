@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#7E8287;
+    font-size: 20px;
+    color:#000000;
+}
+
+.section1 {
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    margin: 250px auto;
+    padding: 5px 10px;
+    overflow: hidden;
+}
+
+.button-add {
+    width: 40%;
+    height: 50px;
+    border: 1px solid#ffffff;
+    border-radius: 50px 20px;
+    background-color: #ffffff;
+    opacity: 80%;
+    box-shadow: 5px 10px solid #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.inputform {
+    width: 50%;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 50px 20px;
+    background-color: #ffffff;
+    opacity: 80%;
+}
+
+.inputform:focus {
+    outline: none;
+}
+.ullist{
+    color: #ffffff;
+}
+
+.inputform:focus{
+    outline: none;
+}
+.Clearall{
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+.button{
+    color:#ffffff;
+    background-color: #ffffff;
+}
+.li{
+font-size: 14px;
+font-weight: bold;
+}
+
+.li .button{
+    color: #ffffff;
+    background-color: #ffffff;
+}
